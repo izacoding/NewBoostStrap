@@ -1,1 +1,12 @@
-style{color:white;}
+nav{
+	font-family: "Trade Winds", cursive; 
+}
+
+h1{ 
+	font-family: "Sigmar One", cursive;
+}
+
+figure{
+	float: left
+}  
+    
